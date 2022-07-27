@@ -1,5 +1,6 @@
 # Test
 ## Just test Git
 
-there are some steps in first.py
-test.md has less use.
+There are some steps in first.py.
+
+Test.md has less use.
